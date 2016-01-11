@@ -1,0 +1,24 @@
+{
+  "name": "sprite-creator",
+  "version": "1.0.0",
+  "description": "Sprite creation task for Grunt",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-spritesmith": "^6.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "sprite",
+    "imagemin"
+  ],
+  "author": "valerio",
+  "license": "ISC"
+}
